@@ -94,7 +94,7 @@ export const getMessage=async(request,response)=>
 }
 
 
-const url="http://localhost:8000";
+const url="https://server-9e30.onrender.com";
 
 let gfs,gridFsBucket;
 const conn = mongoose.connection;
